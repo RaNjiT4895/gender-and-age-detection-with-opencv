@@ -1,5 +1,4 @@
 # gender-and-age-detection-with-opencv
-Real-Time Face Detection and Demographic Prediction
 # Real-Time Face Detection and Demographic Prediction
 
 ## Overview
